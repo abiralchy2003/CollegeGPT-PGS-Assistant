@@ -1,0 +1,822 @@
+Academics
+Presidential Graduate School offers a diverse range of academic programs designed to equip students with the knowledge and skills needed to thrive in today's dynamic job market. At both the undergraduate and postgraduate levels, the institution is committed to delivering quality education that blends theoretical foundations with practical applications. Whether you are aspiring to pursue a career in business, technology, or data science, Presidential provides a pathway tailored to your interests and goals.
+At the bachelor's level, students can choose between BScIT (Bachelor of Science in Information Technology) and BBA (Bachelor of Business Administration), both offering solid groundwork for future specialization or career entry. For those seeking advanced expertise, the master's level programs include MScIT (Master of Science in Information Technology), MBA (Master of Business Administration), MBA in IT, and MBA in Data Analytics. Each program is structured to foster leadership, innovation, and problem-solving skills, preparing graduates to excel in a competitive global environment.
+________________________________________
+Bachelor of Science in Information Technology (BScIT)
+School of Technology, Presidential Graduate School
+ Program Duration: 4 Years
+ Total Credit Hours: 120
+ Total Modules: 40
+1.	 Introduction
+The Bachelor of Science in Information Technology (BScIT) offered by the School of Technology at Presidential Graduate School is a comprehensive undergraduate program affiliated with Westcliff University. It is meticulously designed to develop mid-level and support-level professionals with in-depth knowledge of Information and Communication Technology (ICT). With the increasing global demand for competent IT practitioners, this program equips students with both technical expertise and practical business insights required to address real-world IT challenges. This 4-year academic program, comprising 120 credit hours, emphasizes core IT principles while fostering ethical responsibility and socio-economic awareness. The curriculum is structured to produce graduates who are not only technically proficient but also capable of innovation, leadership, and global adaptability. The program balances foundational theoretical knowledge with the latest advancements in emerging technologies.
+2.	Program Philosophy
+The BScIT program is interdisciplinary in nature, integrating information technology with practical business application. The philosophy behind the program is to produce motivated, capable, and responsible IT professionals who can effectively contribute to the digital transformation of various sectors. The program emphasizes ethical and socially responsible practices in technology, while also promoting entrepreneurial thinking. Students are trained to critically analyze IT systems, design effective technological solutions, and contribute to digital infrastructure development. The program also encourages creativity and research-oriented problem-solving, ensuring that graduates are prepared to meet the demands of a fast-evolving global technology landscape.
+3.	Program Objectives
+Graduates of the Bachelor of Science in Information Technology (BScIT) program are expected to emerge as competent and forward-thinking professionals capable of addressing a wide range of challenges in the field of computing and information technology. The program is designed to equip students with the ability to critically analyze and solve complex computing problems using modern tools, technologies, and industry-standard methodologies. Through rigorous academic training and hands-on experience, students learn to apply innovative IT solutions to real-world socioeconomic and organizational issues, fostering a strong connection between technology and societal development. A key objective of the program is to prepare students to design, develop, and implement scalable, efficient, and user-oriented software systems that reflect global trends and technological evolution. Ethical responsibility and cybersecurity awareness are integral components of the curriculum, ensuring that graduates understand and uphold the principles of secure computing, data protection, and responsible digital behavior. Furthermore, the program emphasizes leadership, communication, and teamwork, enabling graduates to collaborate effectively within multidisciplinary teams and take on roles that require initiative, strategic thinking, and professional engagement. Overall, the BScIT program aims to produce well-rounded IT professionals who are capable of driving innovation, supporting digital transformation, and contributing positively to both the industry and society at large.
+4.	Curriculum Structure
+The BScIT program is divided into three primary categories: Core Courses, Elective Courses, and Integrated Studies. Together, these modules offer a balanced combination of technical knowledge, practical skills, and interdisciplinary education.
+4.1 Core Courses (18 Modules – 54 Credit Hours)
+These courses form the foundation of IT education and include subjects such as:
+·       Introduction to Data Analytics
+·       Introduction to Networking
+·       Introduction to Technology
+·       Technology and Systems
+·       Discrete Mathematics
+·       Applied Statistical Analytics
+·       Network Routing and Switching
+·       Database Design & Analytics
+·       Information Security
+·       Technical Documentation and Communication
+·       Cloud Computing
+·       Internet of Things (IoT)
+·       Introduction to Leadership
+·       Foundations in Operations Management
+·       Management of Information Systems
+·       Authorization and Access Control Management
+·       Emerging Technologies
+·       Capstone Project
+4.2  Elective Courses (7 Modules – 21 Credit Hours)
+Electives offer students the opportunity to specialize in areas of interest. Key elective subjects include:
+·       Numerical Methods
+·       Applied Calculus
+·       Virtualization and Storage
+·       Python Programming
+·       JAVA
+·       Mobile Programming Applications
+·       Data Structures and Algorithms Design
+4.3  Integrated Studies (10 Modules – 30 Credit Hours)
+This segment provides a broad-based education in communication, ethics, and social sciences, enhancing students’ critical thinking and interpersonal skills. Key modules include:
+·       Composition 1
+·       Composition 2
+·       Academic Communication
+·       College Algebra
+·       Psychology, Motivation, and Decision Making
+·       Creating a Sustainable World: Technology and Energy Solution
+·       History of Social Movements
+·       The Impact of Art: Visual, Design & Media
+·       Speech, Debate & Ethics
+·       Integrative Studies Capstone
+5.	 Learning Outcomes
+Upon successful completion of the Bachelor of Science in Information Technology (BScIT) program, students will possess the knowledge and skills necessary to apply fundamental and advanced IT concepts and methodologies to develop innovative, efficient, and scalable solutions that effectively address a variety of complex computing challenges. They will demonstrate proficiency in critical areas such as software development, systems analysis, and problem-solving, enabling them to design and implement technologies that meet evolving user and organizational needs. In addition to technical expertise, graduates will exhibit strong communication and leadership skills, allowing them to effectively document their work, collaborate within multidisciplinary teams, and manage projects with professionalism and clarity. Ethical considerations, legal compliance, and social responsibility are deeply integrated into their learning, ensuring that they understand the implications of technology use and are prepared to uphold high standards of integrity and security in their professional endeavors. This well-rounded education also prepares graduates for further academic pursuits or to enter diverse and rapidly growing fields within the IT industry, such as cybersecurity, artificial intelligence, data analytics, cloud computing, and more, positioning them to contribute meaningfully to technological innovation and societal advancement.
+________________________________________
+BScIT Specializations at Presidential Graduate School
+The Bachelor of Science in Information Technology (BScIT) program at Presidential Graduate School offers several specialized tracks designed to prepare students for diverse career paths within the rapidly evolving field of Information Technology. Each specialization builds upon the core interdisciplinary foundation of the BScIT degree, emphasizing practical skills, ethical awareness, and innovative problem-solving aligned with global IT trends. These tracks empower students to develop expertise in specific areas of IT, equipping them to meet industry demands and contribute meaningfully to technological advancement.
+1.	Specialization in Software and Web Development
+The Software and Web Development specialization focuses on equipping students with both theoretical knowledge and hands-on skills necessary for designing, developing, and maintaining software and web applications. The program emphasizes the creation of scalable, reliable, and user-friendly software solutions using modern methodologies and cutting-edge technologies. Through coursework and industry-relevant projects, students learn system analysis and design, advanced web programming, DevOps practices, and quality assurance techniques. This specialization fosters creativity and innovation, preparing graduates to become skilled developers capable of driving impactful software solutions in the digital economy.
+Core Modules:
+·        System Analysis and Design
+·        Web Programming I
+·        Web Programming II
+·        DevOps and Agile
+·        Software Testing and Quality Assurance
+2.	Specialization in Cybersecurity
+The Cybersecurity specialization prepares students to safeguard digital systems and data against emerging cyber threats. It offers comprehensive theoretical and practical training in threat management, software and systems security, cyber operations, digital forensics, and compliance assessment. This track combines computer science, data science, and risk management principles to develop proactive defenders who can protect digital assets and respond effectively to security incidents. Graduates gain the expertise needed to implement robust security measures and ensure the integrity and confidentiality of information systems in a complex technological landscape.
+Core Modules:
+·        Threat and Vulnerability Management
+·        Software and Systems Security
+·        Cyber Operations and Monitoring
+·        Digital Forensics and Incident Response
+·        Compliance and Assessment
+3.	Specialization in Artificial Intelligence and Machine Learning
+This specialization immerses students in the theory and practical application of Artificial Intelligence and Machine Learning technologies. It covers essential concepts, algorithms, and tools needed to develop intelligent systems capable of learning from data and automating complex processes. Students study topics such as supervised and unsupervised learning, deep learning, big data analytics, and information retrieval, equipping them to create innovative AI-driven solutions. Graduates will be prepared to meet the increasing demand for AI professionals who can transform industries through intelligent automation and data-informed decision-making.
+Core Modules:
+·        Artificial Intelligence & Machine Learning
+·        Big Data Analytics and Visualization
+·        Knowledge Discovery and Data Science
+·        Introduction to Information Retrieval
+·        Artificial Neural Networks & Deep Learning
+4.	Specialization in Multimedia and AR/VR Mobile Game
+This specialization provides students with both theoretical knowledge and practical skills to design and develop interactive multimedia content and augmented reality (AR) / virtual reality (VR) mobile games. The program emphasizes creativity and technical expertise, guiding students through game development using industry-standard tools like Unity. Students gain experience in 2D and 3D game development as well as AR/VR integration, preparing them to lead in the evolving fields of multimedia entertainment and immersive technologies.
+Core Modules:
+·        Computer Graphics and Image Processing
+·        Introduction to Unity and Simple Games
+·        2D Game Development in Unity I
+·        3D Game Development in Unity II
+·        AR and VR Development in Unity
+________________________________________
+Bachelor of Business Administration (BBA)
+School of Business, Presidential Graduate School
+ Program Duration: 4 Years
+ Total Credit Hours: 120
+ Total Modules: 40
+1.	 Introduction
+The Bachelor of Business Administration (BBA) program offered by the School of Business at Presidential Graduate School is a dynamic undergraduate program affiliated with Westcliff University. Designed with international curriculum standards, the BBA provides students with a solid foundation in modern business principles while equipping them with essential skills for effective leadership and strategic decision-making.This four-year program, comprising 120 credit hours across 40 modules, is developed to prepare mid-level managers, entrepreneurs, and business professionals who can thrive in both local and global markets. The curriculum combines academic rigor with hands-on experience, allowing students to address real-world business challenges through case studies, simulations, and applied learning activities. Emphasis is placed on innovation, ethical business conduct, and global business trends.
+2.	 Program Philosophy
+The BBA program is built on the belief that business education should be both practical and values-driven. It aims to develop well-rounded individuals who not only understand business and management theories but can also apply them ethically in diverse professional settings. By integrating business knowledge with real-world applications, the program fosters entrepreneurial thinking, critical reasoning, and social responsibility. Students are trained to analyze organizational behavior, navigate managerial challenges, and implement effective business strategies. The interdisciplinary approach ensures that graduates are capable of adapting to evolving market conditions while upholding strong ethical values and leadership qualities.
+3.	Program Objectives
+The primary objective of the Bachelor of Business Administration (BBA) program is to produce competent business graduates who are equipped to succeed in competitive and fast-changing business environments. Students will learn to evaluate market trends, develop business strategies, manage teams, and drive organizational performance. The curriculum focuses on key business areas such as accounting, finance, marketing, operations, entrepreneurship, and human resources. In addition, students are encouraged to develop their personal and professional communication skills, enhance their decision-making capabilities, and engage with emerging business technologies. The program prepares students for leadership roles by instilling a global mindset, strategic planning ability, and ethical reasoning, enabling them to lead initiatives that contribute to economic growth and social development.
+4.	Curriculum Structure
+The BBA program is organized into three main academic components: Core Courses, Elective Courses, and Integrated Studies. This structure ensures a comprehensive business education that balances theoretical knowledge, practical skills, and personal development.
+4.1  Core Courses (20 Modules – 60 Credit Hours)
+Core modules provide students with foundational knowledge across key business functions. Topics range from introductory business principles to advanced management concepts, including:
+·        Foundations of Business
+·        Principles of Accounting
+·        Concepts of Microeconomics
+·        Business Communication
+·        Foundation of Statistics
+·        Introduction to Business Law
+·        Concepts of Macroeconomics
+·        Introduction to Organizational Behavior
+·        Introduction to Leadership
+·        Principles of Marketing
+·        Essentials of Corporate Finance
+·        Management of Information Systems
+·        Fundamentals of Decision Making
+·        Foundations in Operations Management
+·        Essentials of Entrepreneurship
+·        Introduction to Business Research
+·        Development of Business Strategy
+·        International Marketing & Culture
+·        Principles of Advertising
+·        Introduction to Sales Management
+4.2  Elective Courses (5 Modules – 15 Credit Hours)
+Elective courses allow students to deepen their expertise in specialized areas based on their interests and career goals. The following electives are offered:
+·        Introduction to Political Economy
+·        Fundamentals of Project Management
+·        Online Business
+·        Principles of Managerial Accounting
+·        Principles of Human Resource Management
+4.3  Integrated Studies (10 Modules – 30 Credit Hours)
+Integrated Studies provide a broad liberal arts foundation that strengthens students’ communication, analytical thinking, and ethical judgment. Modules include:
+·        Composition 1
+·        Composition 2	
+·        Critical Thinking & Research
+·        College Algebra
+·        Psychology, Motivation, and Decision-Making
+·        History of Social Movements	
+·        Creating a Sustainable World: Technology and Energy Solutions
+·        Personal Finance
+·        Speech, Debate, and Ethics
+·        Language, Culture & Power
+5.	     Learning Outcomes
+Upon successful completion of the Bachelor of Business Administration (BBA) program, graduates will possess the comprehensive knowledge and practical capabilities required to analyze, manage, and lead within diverse organizational settings. They will demonstrate proficiency in key business disciplines, including finance, marketing, human resources, and strategic planning, along with the ability to solve complex business problems using analytical tools and data-driven decision-making approaches. Graduates will exhibit strong communication, negotiation, and presentation skills essential for effective teamwork and leadership. They will also uphold a strong ethical foundation, with an awareness of social responsibility and sustainable business practices. Equipped to adapt to dynamic global business environments, BBA graduates will be capable of leading innovation and driving organizational growth. Furthermore, the program instills entrepreneurial acumen and the confidence needed to launch and manage their own ventures or lead initiatives in established enterprises. Overall, the BBA program prepares students to become industry-ready professionals capable of thriving in corporate, nonprofit, and academic settings.
+________________________________________
+BBA Specializations at Presidential Graduate School
+The Bachelor of Business Administration (BBA) program at Presidential Graduate School, offered in collaboration with Westcliff University, is a globally recognized four-year, 120-credit undergraduate degree designed to equip students with foundational business knowledge, leadership skills, and hands-on experience. Rooted in both academic theory and real-world practice, the BBA curriculum supports students in developing analytical thinking, ethical awareness, and problem-solving abilities essential for effective leadership in today’s complex business environments. To align with current industry trends and market needs, the program offers targeted specializations that allow students to explore their professional interests in-depth and build expertise in specific areas of business and management.
+1.	Specialization in Finance
+The BBA in Finance specialization is designed to prepare students for successful careers in financial management, investment banking, corporate finance, and related fields. This track delves into the tools, concepts, and analytical techniques required to evaluate financial performance, manage capital, and make informed investment decisions. Students develop a deep understanding of how financial institutions operate, how markets influence decision-making, and how risk is assessed and managed. Emphasis is placed on real-world applications through case studies, simulations, and financial modeling, enabling graduates to analyze complex financial data and propose viable financial strategies in a competitive global environment.
+Core Modules:
+·        FIN 400 – Working Capital Management
+·        FIN 401 – Financial Institutions and Market
+·        FIN 402 – Corporate Financial Decisions
+·        FIN 403 – Financial Derivative
+·        FIN 404 – Investment Decisions
+2.	Specialization in Marketing
+The BBA in Marketing specialization empowers students with the strategic and creative skills needed to succeed in dynamic and fast-changing marketing environments. This track focuses on key marketing principles such as branding, consumer behavior, customer relationship management, and integrated digital marketing strategies. Students gain practical experience in developing marketing campaigns, conducting market research, and using data-driven insights to shape customer experiences. With a global perspective, this specialization emphasizes the importance of aligning marketing strategies with organizational goals, customer needs, and ethical practices. Graduates are well-prepared for roles in brand management, digital marketing, advertising, and sales.
+Core Modules:
+·        MGT 402 – Customer Relationship Management
+·        MKT 303 – The Psychology of Consumer Behavior
+·        MKT 304 – Principles of Branding
+·        MKT 403 – Digital Marketing Strategy
+·        MKT 404 – Integrated Marketing Communication
+3.	Specialization in Entrepreneurship
+The BBA in Entrepreneurship specialization is tailored for students who aspire to start their own businesses or lead innovation within existing organizations. This track provides a comprehensive roadmap of the entrepreneurial process, from opportunity recognition and business model development to fundraising, strategic execution, and growth. Students learn how to develop viable business plans, assess market opportunities, manage new product development, and adapt to regulatory and competitive environments. Additionally, the specialization nurtures creativity, resilience, and leadership skills essential for entrepreneurial success in both for-profit and social enterprise contexts. Graduates are well-positioned to launch startups, consult for small businesses, or become innovation leaders in any sector.
+Core Modules:
+·        ENT 401 – Entrepreneurial Innovation Management
+·        ENT 402 – Negotiation Theory and Skills for Entrepreneurs
+·        ENT 403 – Feasibility Analysis for Sustainable Entrepreneurs
+·        ENT 404 – New Product Development for Entrepreneurs
+·        ENT 405 – Fundamentals of Entrepreneurial Finance
+________________________________________
+Master of Science in Information Technology (MScIT)
+School of Technology, Presidential Graduate School
+ Program Duration: 2 Years
+ Total Credit Hours: 60
+ Total Modules: 20
+1.	 Philosophy
+The Master of Science in Information Technology (MScIT) program offers a rigorous and globally recognized qualification designed to meet the demands of the rapidly evolving IT industry. Covering all key aspects of designing, building, and managing data, information, and communication technologies, the program instills intellectual rigor and practical skills essential for success in dynamic sectors such as e-commerce, healthcare, education, and beyond. Graduates become proficient problem solvers capable of navigating and resolving the complexities inherent in diverse IT domains. The program ultimately develops executive-level leaders who can effectively steer organizations through the constantly changing IT landscape. In a world where over a million IT jobs are created annually, advanced expertise provides students with a significant advantage in competitive business and technical environments. This program prepares graduates for a broad range of roles, from technical and management positions to information systems specialists, equipping them to pursue diverse career paths within the IT profession—which today holds immense respect and opportunity worldwide.
+2.	Overview
+The MScIT program at Westcliff University, offered by Presidential Graduate School, is a two-year, 60-credit curriculum meticulously designed to address the evolving needs of IT professionals across various industries. It offers a comprehensive educational experience blending theoretical foundations with practical knowledge, emphasizing the integration of technology, human resource management, and strategic business development. Graduates of this program are equipped to develop innovative computing solutions tailored to complex business challenges and apply these solutions effectively within their professional roles. The MScIT prepares students to contribute significantly to organizational success, making them valuable assets in the fast-paced and ever-changing field of Information Technology.
+3.	Course Content
+The program consists of 20 modules totaling 60 credit hours, divided into core and elective courses:
+Elective Courses (8 Modules – 24 Credit Hours)
+·        CLD 600 – Virtualization and Storage (3 Credit Hours)
+·        DATA 610 – Advanced Database Design & Management (3 Credit Hours)
+·        EMT 610 – Metaverse (3 Credit Hours)
+·        ITM 610 – Networking Management (3 Credit Hours)
+·        EMT 620 – Blockchain (3 Credit Hours)
+·        RES 620 – Research Methodology (3 Credit Hours)
+·        IOT 600 – Internet of Things (IoT) (3 Credit Hours)
+·        AIM 601 – Data Science (3 Credit Hours)
+Core Courses (7 Modules – 21 Credit Hours)
+·        MIS 500 – Managing Information Systems & Technology (3 Credit Hours)
+·        MIS 510 – Information Technology Project Management (3 Credit Hours)
+·        MIS 520 – Leading Strategic Change with Technology (3 Credit Hours)
+·        MIS 540 – Management of Information Security (3 Credit Hours)
+·        MIS 545 – Business Architecture and Organizational Transformation (3 Credit Hours)
+·        MIS 550 – Big Data Analytics and Visualization (3 Credit Hours)
+·        CAP 690 – Masters Applied Capstone (3 Credit Hours)
+MScIT Specializations at Presidential Graduate School
+
+        	The MScIT Specialization programs at Presidential Graduate School are designed to provide advanced, focused education in key areas of Information Technology that are shaping the future of the digital world. These specializations offer students the opportunity to deepen their expertise in rapidly evolving fields such as Artificial Intelligence and Machine Learning, Cybersecurity, and Software Engineering with Software Quality Assurance. Through a blend of theoretical foundations and practical applications, the programs prepare graduates to meet industry demands, solve complex technical challenges, and lead innovative projects across various sectors. By choosing a specialization, students gain targeted skills and knowledge that enhance their professional growth and open doors to high-impact careers in the global IT landscape.
+1.	Specialization in Artificial Intelligence and Machine Learning
+The MScIT program with a concentration in Artificial Intelligence (AI) and Machine Learning is carefully designed to provide students with both deep theoretical understanding and hands-on practical skills. The curriculum covers a wide spectrum of machine learning methods including supervised, unsupervised, and reinforcement learning techniques. Students also gain a strong foundation in semantic web technologies and information retrieval systems, enabling them to extract valuable insights and visualize complex data sets effectively. This specialization prepares graduates to uncover hidden patterns and contribute to data-driven innovations across multiple industries.
+AI and Machine Learning is one of the fastest-growing technology fields, bridging computer science and statistics to empower solutions in diverse sectors such as finance, healthcare, agriculture, robotics, telecommunications, and government. Graduates of this track are equipped not only to address current challenges but also to drive future advancements in AI technologies and their applications.
+Core Modules (15 Credit Hours):
+·        Applied Algebra for Machine Learning (3 credits)
+·        Artificial Intelligence and Machine Learning (3 credits)
+·        Artificial Neural Network & Deep Learning (3 credits)
+·        Semantic Technology (3 credits)
+·        Information Retrieval (3 credits)
+2.	 Specialization in Cybersecurity
+The Cybersecurity specialization within the MScIT program focuses on imparting advanced knowledge and skills needed to secure digital environments against an ever-increasing array of cyber threats. The program offers comprehensive training in threat detection, software and system security, cyber operations monitoring, digital forensics, incident response, and regulatory compliance. Students learn to develop robust security policies and implement measures that safeguard data and networks from unauthorized access and cyberattacks.
+As cyber threats continue to evolve rapidly, cybersecurity has become an indispensable field in protecting sensitive information and digital infrastructure. This interdisciplinary specialization integrates concepts from computer science, risk management, and data science to prepare graduates to maintain the integrity and resilience of modern digital systems.	
+Core Modules (15 Credit Hours):
+·        Threat and Vulnerability Management (3 credits)
+·        Software and Systems Security (3 credits)
+·        Cyber Operations and Monitoring (3 credits)
+·        Digital Forensics and Incident Response (3 credits)
+·        Compliance and Assessment (3 credits)
+3.	Specialization in Software Engineering and Software Quality Assurance (SQA)
+The MScIT specialization in Software Engineering and Software Quality Assurance is designed to equip students with the knowledge and practical expertise necessary for developing scalable, reliable, and high-quality software solutions within budget and time constraints. The curriculum provides in-depth coverage of software engineering principles, microservices architecture, and agile development methodologies, enabling students to adopt a comprehensive approach to software design and development.
+A key focus of this specialization is Software Quality Assurance, where students learn to ensure software products meet rigorous standards of reliability, performance, and security. Graduates develop the skills to implement quality control measures and contribute effectively to the production of superior software products that exceed industry benchmarks. This specialization prepares students for leadership roles in software development and quality management in a fast-paced, ever-changing industry.
+Core Modules (15 Credit Hours):
+·        Software Engineering (3 credits)
+·        Advanced Web Programming (3 credits)
+·        Software Quality Assurance (3 credits)
+·        Microservices Architecture in Software Engineering (3 credits)
+·        Agile Methodologies (3 credits)
+________________________________________
+Master of Business Administration (MBA)
+
+ School of Business, Presidential Graduate School
+ Program Duration: 2 Years
+ Total Credit Hours: 60
+ Total Modules: 20
+1.	Philosophy
+The MBA program at Presidential Graduate School is recognized globally as one of the most valuable business qualifications. It exemplifies essential executive qualities such as intelligence, innovation, and determination. The curriculum aims to motivate students to embrace lifelong learning while developing strong analytical, conceptual, and quantitative skills. The program nurtures leadership abilities and teamwork effectiveness, underpinned by a strong commitment to ethical responsibility and a positive mindset. Graduates are thus prepared to lead with integrity and confidence in the complex and dynamic business world.
+2.	 Overview
+The MBA program, delivered by Westcliff University through Presidential Graduate School, is a comprehensive two-year, 60-credit program designed to cater to both working professionals and full-time students. It aligns with international educational standards, ensuring global recognition of the degree. The program uniquely integrates both local and global business perspectives, preparing students to tackle real-world challenges in a variety of fields including entrepreneurship, financial management, human resources, marketing, strategic management, and supply chain management. The experienced faculty brings valuable industry insights, equipping graduates with the knowledge and skills to secure leadership roles and advance their careers in local and international markets.
+3.	Course Content
+The program comprises 20 modules totaling 60 credit hours, divided into core and elective courses:
+Elective Courses (8 Modules – 24 Credit Hours)
+·        MGT 600 – Influential and Impactful Communication (3 Credit Hours)
+·        BUS 626 – Statistical Analysis for Decision Making Process (3 Credit Hours)
+·        HRM 600 – Human Resources Management (3 Credit Hours)
+·        MGT 601 – Operations Management (3 Credit Hours)
+·        RES 600 – Business Research Methodology (3 Credit Hours)
+·        ENT 601 – Entrepreneurship and New Ventures (3 Credit Hours)
+·        BUS 602 – Business Law (3 Credit Hours)
+·        FIN 610 – Applied Corporate Financial Management (3 Credit Hours)
+Core Courses (8 Modules – 24 Credit Hours)
+·        ECO 500 – Managerial Economics (3 Credit Hours)
+·        ORG 500 – Organizational Behavior (3 Credit Hours)
+·        MKT 500 – Marketing Management (3 Credit Hours)
+·        MIS 500 – Managing Information Systems & Technology (3 Credit Hours)
+·        LDR 500 – Organizational Leadership (3 Credit Hours)
+·        MGT 500 – Strategic Management in a Globalized Economy (3 Credit Hours)
+·        CAP 600 – Applied Methods Capstone (3 Credit Hours)
+·        FIN 500 – Financial and Accounting Skills for Managers (3 Credit Hours)
+MBA Specializations at Presidential Graduate School
+The MBA program at Presidential Graduate School offers a diverse range of specializations, allowing students to align their studies with their professional interests and long-term career goals. These specializations are thoughtfully designed to provide both academic rigor and practical relevance, equipping graduates with the expertise and confidence needed to take on leadership roles in a competitive global marketplace. Whether students choose to focus on Finance, Marketing, Entrepreneurship, Organizational Management, or Supply Chain Management, each pathway offers a deep dive into its respective field through a combination of advanced coursework, case studies, and real-world projects. This personalized learning experience ensures that students not only master core business fundamentals but also gain specialized skills to drive innovation, strategic decision-making, and sustainable growth in their chosen industries.
+1.	Specialization in Finance
+The MBA in Finance specialization is meticulously structured to develop high-level financial acumen among aspiring professionals. It offers a robust blend of theoretical frameworks, analytical techniques, and real-world financial strategies, empowering students to make informed and impactful decisions in complex financial environments. This program places a strong emphasis on strategic financial planning, growth and diversification policies, and securities portfolio evaluation. It also covers vital aspects of investment banking, merger and acquisition strategies, and the volatility of international finance, including foreign exchange rate dynamics and risk mitigation. By integrating practical tools like data visualization for finance and immersive case studies, students gain firsthand experience in navigating today’s fast-paced financial world. Graduates are well-prepared for careers in corporate finance, investment analysis, banking, and global financial management.
+Core Modules (12 Credit Hours)
+·       FIN 600 – International Finance (3 Credit Hours)
+·       FIN 602 – Analyzing and Visualizing Data for Finance (3 Credit Hours)
+·       FIN 603 – Financial Institution, Markets and the Economy (3 Credit Hours)
+·       FIN 604 – Investment Analysis (3 Credit Hours)
+2.	Specialization in Marketing
+The MBA in Marketing specialization provides students with a comprehensive foundation in modern marketing principles with a strong focus on global trends and digital strategies. Designed to shape strategic marketing leaders, the program dives deep into areas such as consumer psychology, branding, sales management, and market research methodologies. Students learn how to develop and implement effective campaigns, craft compelling brand narratives, and assess market opportunities using both qualitative and quantitative techniques. The curriculum encourages cross-departmental thinking by highlighting how marketing collaborates with operations, finance, and product development, thus fostering a holistic business perspective. Upon completion, graduates will be prepared to drive growth and innovation in competitive market environments, assuming leadership roles in areas like brand management, digital marketing, and strategic marketing planning.
+Core Modules – 12 Credit Hours
+·       MGT 603 – Sales Management (3 Credit Hours)
+·       MKT 600 – Consumer Behavior and the Decision Making Process (3 Credit Hours)
+·       MKT 602 – Market Research (3 Credit Hours)
+·       MKT 603 – Strategic Brand Management (3 Credit Hours)
+3.	Specialization in Entrepreneurship
+The MBA in Entrepreneurship is designed for individuals who aspire to create, lead, and scale their own ventures or drive innovation within existing organizations. This program emphasizes entrepreneurial mindset development, covering key areas like opportunity identification, resource mobilization, and strategic venture management. Students gain a thorough understanding of how successful entrepreneurs operate—from launching a business to scaling operations and managing exit strategies. Courses such as entrepreneurial finance and new product development equip students with the financial and creative skills needed to build sustainable business models. Additionally, with the rise of digital platforms, the program also addresses the nuances of online entrepreneurship, preparing graduates to thrive in tech-driven and innovation-focused markets.
+Core Modules – 12 Credit Hours
+·       FIN 601 – Entrepreneurial Finance (3 Credit Hours)
+·       MGT 605 – Managerial Decision Making (3 Credit Hours)
+·       MKT 604 – New Product Development and Launch (3 Credit Hours)
+·       ENT 602 – Online Business Entrepreneurship (3 Credit Hours)
+4.	Specialization in Organizational Management
+The MBA in Organizational Management is tailored for professionals seeking to enhance their leadership capabilities and drive effective organizational change. This specialization focuses on strategic decision-making, conflict resolution, workforce diversity, and building inclusive organizational cultures. Students engage in real-world scenarios where they learn to manage teams, align human resource strategies with organizational goals, and foster innovation in the workplace. The curriculum provides an in-depth understanding of change management, leadership theories, and employee engagement practices—skills crucial in today's evolving global workforce. Graduates are equipped to take on senior-level roles in HR, operations, consulting, or general management, where they can make meaningful contributions to organizational development and performance.
+Core Modules – 12 Credit Hours
+·       MGT 605 – Managerial Decision Making (3 Credit Hours)
+·       LDR 600 – Leading Strategic Change within Organizations (3 Credit Hours)
+·       HRM 601 – Diversity, Equity & Inclusion in Management and Organizations (3 Credit Hours)
+·       LDR 601 – Managing Workplace and Conflict Resolution (3 Credit Hours)
+5.	Specialization in Supply Chain Management
+The MBA in Supply Chain Management offers an in-depth exploration of how goods, services, and information flow through complex global networks. This specialization equips students with the knowledge to optimize operations across procurement, manufacturing, logistics, inventory control, and customer service. It emphasizes the strategic importance of building efficient, sustainable, and technology-driven supply chains that contribute to long-term business success. Students learn how to solve real-world challenges related to sourcing strategies, demand forecasting, production planning, and distribution logistics. In today’s interconnected global economy, graduates with supply chain expertise are highly sought after, making this specialization ideal for professionals aiming to enhance competitiveness and sustainability within their organizations.
+________________________________________
+MBA in Information Technology (MBA in IT)
+Program Duration: 2 Years
+ Total Credit Hours: 60
+ Total Modules: 20
+1.	 Program Overview
+The MBA in Information Technology at Presidential Graduate School, affiliated with Westcliff University, is a dynamic and industry-aligned graduate program tailored for professionals seeking to bridge the gap between IT and business leadership. Designed for working professionals, this internationally recognized 2-year, 60-credit program offers both flexibility and rigor, combining core business principles with advanced technological competencies. The curriculum integrates globally competitive content with localized relevance, producing well-rounded professionals capable of contributing to both national and international organizations.
+This program uniquely blends managerial insight with technical depth, equipping students with skills in areas such as IT project management, strategic change leadership, big data analytics, AI and machine learning, cybersecurity, and cloud computing. Students will not only develop advanced IT skills but also build strong foundations in strategic management, financial analysis, organizational leadership, and data-driven decision-making. Graduates are well-prepared to take on leadership roles in diverse sectors including IT firms, banks, government agencies, NGOs, INGOs, and multinational corporations.
+2.	Program Philosophy
+The MBA in IT is designed with a vision to empower future managers and technologists to leverage information systems as a source of strategic advantage. The philosophy of the program rests on fostering a holistic understanding of how emerging technologies, digital transformation, and data-driven innovations are reshaping modern enterprises. Students are trained not just to understand technology, but to manage it effectively, drive strategic decisions, and align IT initiatives with broader organizational goals. This dual emphasis on technological excellence and managerial competence ensures that graduates are not only tech-savvy but also effective business leaders.
+3.	Course Content
+The curriculum spans 20 modules over four semesters, totaling 60 credit hours. Each course has been carefully curated to ensure depth in both business management and advanced IT skills:
+Core Courses:
+·       FIN 500 – Financial & Accounting Skills for Managers (3 Credit Hours)
+·       MKT 500 – Marketing Management (3 Credit Hours)
+·       ORG 500 – Organizational Behavior (3 Credit Hours)
+·       ECO 500 – Managerial Economics (3 Credit Hours)
+·       LDR 500 – Organizational Leadership (3 Credit Hours)
+·       MIS 500 – Managing Information Systems & Technology (3 Credit Hours)
+·       MGT 500 – Strategic Management in a Globalized Economy (3 Credit Hours)
+·       MIS 520 – Leading Strategic Change with Technology (3 Credit Hours)
+·       MGT 600 – Influential & Impactful Communication (3 Credit Hours)
+·       RES 600 – Business Research Methodology (3 Credit Hours)
+·       BUS 626 – Statistical Analysis for Decision-Making Process (3 Credit Hours)
+·       DATA 610 – Database Design and Management (3 Credit Hours)
+·       EMT 600 – Artificial Intelligence and Machine Learning (3 Credit Hours)
+·       PRG 630 – Python Programming (3 Credit Hours)
+·       TECH 601 – Next Generation Technologies (3 Credit Hours)
+·       CLD 600 – Virtualization and Storage (3 Credit Hours)
+·       ITM 640 – Issues in Business and IT (3 Credit Hours)
+·       MIS 510 – Information Technology Project Management (3 Credit Hours)
+·       MIS 550 – Big Data Analytics and Visualization (3 Credit Hours)
+·       CAP 600 – Applied Methods Capstone (3 Credit Hours)
+________________________________________
+MBA in Data Analytics
+Program Duration: 2 Years
+ Total Credit Hours: 60
+ Total Modules: 20
+1.	Program Philosophy
+In today’s digital-first world, data has become the new currency—vast, complex, and transformative. The explosion of data from sources such as social media, IoT devices, e-commerce platforms, and enterprise systems is redefining how organizations operate and make strategic decisions. The MBA in Data Analytics program is built around this data revolution. It equips students with the knowledge and tools necessary to uncover patterns, derive insights, and make data-driven decisions that add real business value.
+As industries generate more data than ever before, the need for professionals who can analyze, interpret, and lead data initiatives is growing rapidly. This program goes beyond technical training, instilling in students the managerial and strategic mindset required to lead analytics-driven teams and projects. Students will gain hands-on experience in data mining, cloud and big data management, time-series forecasting, and supply chain analytics—skills that are vital across industries including finance, healthcare, marketing, e-commerce, social media, transportation, and pharmaceuticals. Graduates will emerge as capable leaders who can not only handle data but also use it as a tool for innovation and competitive advantage.
+2.	Program Overview
+Offered by Presidential Graduate School (PGS) in affiliation with Westcliff University, the MBA in Data Analytics is an internationally recognized 2-year, 60-credit hour program designed with flexibility to accommodate working professionals. Combining a globally relevant curriculum with a deep understanding of local business needs, the program strikes a balance between academic rigor and practical application.
+This hybrid program integrates modern data science techniques with core business management training, empowering students to take on strategic roles in organizations worldwide. Whether you are in banking, healthcare, IT, or manufacturing, this MBA prepares you to solve real-world business problems using analytical tools and data-driven thinking. With a strong emphasis on hands-on learning, the program ensures that students are ready to meet the rising global demand for data-literate managers and leaders.
+
+
+3.	Course Content
+The program consists of 20 modules spread across four semesters, totaling 60 credit hours. Courses are a blend of foundational business knowledge and advanced data analytics skills.
+       	Core Courses:
+·       FIN 500 — Financial & Accounting Skills for Managers (3 Credit Hours)
+·       MKT 500 — Marketing Management (3 Credit Hours)
+·       ORG 500 — Organizational Behavior (3 Credit Hours)
+·       ECO 500 — Managerial Economics (3 Credit Hours)
+·       LDR 500 — Organizational Leadership (3 Credit Hours)
+·       MIS 500 — Managing Information Systems & Technology (3 Credit Hours)
+·       MGT 500 — Strategic Management in a Globalized Economy (3 Credit Hours)
+·       MIS 520 — Leading Strategic Change with Technology (3 Credit Hours)
+·       MGT 600 — Influential & Impactful Communication (3 Credit Hours)
+·       RES 600 — Business Research Methodology (3 Credit Hours)
+·       BUS 626 — Statistical Analysis for Decision-Making Process (3 Credit Hours)
+·       DATA 610 — Database Design and Management (3 Credit Hours)
+·       EMT 600 — Artificial Intelligence and Machine Learning (3 Credit Hours)
+·       PRG 630 — Python Programming (3 Credit Hours)
+·       TECH 601 — Next Generation Technologies (3 Credit Hours)
+·       CLD 600 — Virtualization and Storage (3 Credit Hours)
+·       ITM 640 — Issues in Business and IT (3 Credit Hours)
+·       MIS 510 — Information Technology Project Management (3 Credit Hours)
+·       MIS 550 — Big Data Analytics and Visualization (3 Credit Hours)
+·       CAP 600 — Applied Methods Capstone (3 Credit Hours)
+ 
+
+Westcliff University: Academic Policies Documentation
+This document outlines the key academic policies at Westcliff University regarding course repeats, grade appeals, grading systems, incomplete grades, and academic progress requirements, as detailed in the official university policy document.
+________________________________________
+Course Repeat Policy
+●	Eligibility for Repeat: Students may repeat any course in which a grade of C‐ or below is earned, but only once per course.
+●	Grading Requirements: If the original attempt was for a letter grade, the repeat must also be for a letter grade.
+●	Credit Hour Limit: Students may repeat up to 12 credit hours of graded coursework. Only the second grade (whether higher or lower) is calculated into the cumulative and term GPA, provided the student is within the 12 credit hour repeat limit.
+●	Restrictions:
+●	The same course can only be repeated once.
+●	Credit hours for a repeated course are awarded only once.
+●	No credit is given for repeating a course after completing a more advanced course in the sequence with a grade of C or better.
+●	If the 12 credit hour repeat limit is exceeded, both grades are averaged into the cumulative GPA.
+●	Repeating Courses at Other Institutions: Students may repeat an equivalent course at another institution with prior approval from the College Dean or Director of Academic Affairs. Transfer of grade credit is subject to university acceptance.
+●	Concurrent Enrollment: Approval is required for students wishing to enroll concurrently at another university. Requests must be submitted in writing, including course details, by the last day of the preceding semester. Approval is only granted if Westcliff does not offer a similar course or if scheduling conflicts exist.
+________________________________________
+Grade Appeal Policy / Change of Grades
+●	Presumption of Correctness: Grades assigned by instructors are presumed correct.
+●	Grounds for Appeal: Appeals must be based on clerical error, prejudice, capriciousness, or failure to provide reasonable accommodation for a documented disability.
+●	Appeal Process:
+1.	Instructor Consultation: Students must contact the instructor within three weeks of grade assignment.
+2.	Written Appeal to Dean/Director: If unresolved, a written appeal must be submitted to the Dean or Director of Academic Affairs within five weeks.
+3.	Grade Appeal Committee: If still unresolved, the case may be escalated to the University Course Grade Appeal Committee within ten working days.
+4.	Committee Review: The committee reviews the case, may request additional information, and makes a recommendation (which may include re-evaluation, maintaining the grade, or a formal hearing).
+5.	Final Decision: The student is notified in writing of the committee’s decision, which is final and not subject to further appeal.
+●	Timeline: The entire appeal process may take six to eight weeks to complete.
+________________________________________
+Grading System
+●	Grading Scale: Westcliff University uses a traditional 4.0 scale. Grades are assigned as follows:
+Percentage	Grade	Grade Point	Description
+93–100%	A	4.00	Superior
+90–92%	A–	3.67	Excellent
+87–89%	B+	3.33	Good
+83–86%	B	3.00	Good
+80–82%	B–	2.67	Good
+77–79%	C+	2.33	Average
+73–76%	C	2.00	Average
+70–72%	C–	1.67	Average
+67–69%	D+	1.33	Poor
+63–66%	D	1.00	Poor
+60–62%	D–	0.67	Poor
+<60%	F	0.00	Failing
+●	Grade Assignment: Grades are based on a combination of participation, final projects, mid-course examinations, and other criteria (e.g., homework, group work, quizzes). The weight of each component is standardized across doctoral, graduate, and undergraduate levels.
+●	Grade Posting: Final grades are posted within 10 days after course completion.
+●	Financial Holds: Students with outstanding financial obligations may be denied access to final grades or registration for subsequent terms.
+________________________________________
+
+Incomplete Grades
+●	Assignment of Incomplete: An “Incomplete” may be assigned at the instructor’s discretion when coursework is of passing quality but incomplete for good cause.
+●	Completion Deadline: Remaining coursework must be completed by the end of the next semester. Otherwise, the “Incomplete” automatically converts to an “F.”
+●	Extension Requests: Students must petition for an extension at least two weeks before the deadline, providing a detailed explanation and supporting documentation. Approval is not guaranteed.
+●	GPA Impact: An “Incomplete” is not calculated into the GPA until a final grade is assigned.
+________________________________________
+Academic Progress (Quantitative and Qualitative)
+●	Qualitative Requirement (GPA):
+●	Undergraduate students must maintain a cumulative GPA of 2.0 or higher.
+●	Graduate students must maintain a cumulative GPA of 3.0 or higher.
+●	Students falling below the required GPA are placed on academic probation.
+●	Quantitative Requirement (Pace):
+●	Students must complete their educational program within a maximum time frame, as defined by the university. Specific details on pace requirements are provided in the full university policy.
+●	Transfer Credits: Transfer credits do not affect the calculation of the cumulative GPA or satisfactory academic progress evaluation.
+________________________________________
+Additional Notes
+●	No Grade Curving: Grade curving is not permitted, and grade inflation is actively discouraged.
+●	Grade Disputes: Students should first address grade concerns with the course instructor before escalating to higher authorities.
+●	Financial Holds: The university reserves the right to withhold grades and registration privileges for students with unpaid financial obligations.
+________________________________________
+This documentation provides a comprehensive overview of the academic policies governing course repeats, grade appeals, grading, incomplete grades, and academic progress at Westcliff University, ensuring transparency and clarity for all students and faculty members. 
+Admission process
+The admission journey at Presidential Graduate School, in academic partnership with Westcliff University, is intentionally personalized, reflective, and empowering—designed to understand students' academic potential, professional goals, and readiness to contribute as future global leaders. Each step of the process is structured to offer clarity, support, and engagement from the moment a student expresses interest to the final university enrollment.
+1. Initial Counseling Session with Admissions Team
+●	The admission journey begins with a personal and meaningful one-on-one interaction with our experienced academic counselors. This initial step is designed to help you gain clarity and confidence about your educational path. You can choose to connect with our counselors in the way that’s most convenient for you—whether it’s by visiting us in person, making a phone call, or chatting via WhatsApp. We are always accessible and ready to support you at any of the following contact numbers: +977 9767658631, +977 9851343705, and +977 9851343905. All these numbers are also available on WhatsApp for quick and easy communication.
+During your session with the counselor, you’ll receive personalized guidance tailored to your academic background and career aspirations. You’ll learn about the different program options we offer, the academic pathways available to you, and how your goals can align with our offerings. This is also your opportunity to explore potential scholarship opportunities and understand the selection process involved. Our counselors will walk you through what documents you’ll need, the steps in the application timeline, and any additional support available. This conversation is more than just an information session—it sets the tone for a smooth and informed admission journey by giving you a clear understanding of what to expect and how to move forward with confidence.
+2. Inquiry Form Submission
+Once you've had your initial conversation with our admissions counselor and feel confident about moving forward, the next step is to fill out our Inquiry Form. This is a simple yet important document that allows us to formally capture your interest in the program. By providing your background, academic history, and career goals, you're helping us get to know you better so we can guide you more effectively. This form also ensures that you receive important updates about scholarships, deadlines, program announcements, and other relevant opportunities tailored to your profile. It’s your way of saying, “I’m ready to explore what comes next,” and it helps us stay connected throughout your admission journey.
+3. Participation in Case Study Trivia and Interview Round
+After submitting the Inquiry Form, you’ll be invited to participate in two exciting and important components of the selection process: the Case Study Trivia and the Interview Session. The Case Study Trivia is designed to be both engaging and thought-provoking. It’s not a traditional test—it’s more of a challenge that lets us see how you approach real-world scenarios. We’re interested in your problem-solving techniques, your logical thinking, and how you express your ideas. It’s also an opportunity for you to showcase your creative and analytical abilities, which are valuable skills in any graduate program.
+	Following this, you’ll attend a Meet & Greet Interview with a faculty representative. This is a more personal and reflective session where we aim to understand you better as an individual. During the interview, we’ll talk about your academic journey, your motivation for joining the program, and your future plans. It’s an open, friendly conversation meant to ensure that there’s a good match between your goals and what our institution can offer. Both the trivia and the interview play a role in evaluating your scholarship eligibility, so it’s a great chance to stand out.
+
+4. Paper-Based Pre-Enrollment Application
+Following this, you’ll attend a Meet & Greet Interview with a faculty representative. This is a more personal and reflective session where we aim to understand you better as an individual. During the interview, we’ll talk about your academic journey, your motivation for joining the program, and your future plans. It’s an open, friendly conversation meant to ensure that there’s a good match between your goals and what our institution can offer. Both the trivia and the interview play a role in evaluating your scholarship eligibility, so it’s a great chance to stand out.
+5. Admission Fee Clearance
+Once the application form is complete and reviewed, the next step is to clear the admission fee. This payment officially secures your spot in the incoming class and enables us to move forward with your university enrollment. Our team will provide you with clear instructions regarding the payment amount and the different options available, such as bank deposit, eSewa, or direct payment at our campus. We also offer support for any questions you may have about the process or technical aspects of making the payment. Once the transaction is confirmed, you’ll receive a receipt and be officially considered an admitted student.
+6. Westcliff University Enrollment
+The final step in your admission process is completing the Online Enrollment Form for Westcliff University, our prestigious academic partner. This form is essential for finalizing your enrollment in the graduate program. You’ll receive direct guidance from our admissions department on how to access and complete the form, along with instructions on uploading the required digital documents. These may include scanned versions of your academic credentials, identification documents, and any additional items specific to your program. Our team is committed to walking you through this step-by-step to ensure there are no hiccups and everything is submitted correctly and on time.
+Post-Enrollment Support
+Upon successful enrollment:
+●	Students receive an official welcome email
+●	Gain access to orientation schedules and student platforms “GAP”
+●	Can opt-in for early career mentoring, networking events, and academic prep sessions
+This marks the transition from applicant to student—ready to begin a globally respected academic experience with the support of two powerful institutions.
+ 
+Eligibility Criteria at Presidential Graduate School
+At Presidential Graduate School, in partnership with Westcliff University, we welcome ambitious learners from diverse academic backgrounds. Whether you’re preparing to enter the field of business or technology, each program has clearly defined eligibility criteria to ensure students are equipped with the foundational knowledge required to succeed in a rigorous academic environment.
+Business courses:
+●	Master of Business Administration (MBA)
+To apply for our flagship MBA program, you must have completed a Bachelor’s degree in any discipline from a recognized university—either within Nepal or internationally. Academic excellence is important, so the minimum requirement is a Cumulative Grade Point Average (CGPA) of 2.5, or 45%, or an equivalent score on any recognized grading scale.
+This flexibility in academic background ensures students from various fields—whether business, humanities, science, or engineering—can transition into the world of management and develop core skills in strategy, operations, finance, and leadership.
+●	Bachelor of Business Administration (BBA)
+For students looking to begin their academic journey in business at the undergraduate level, the BBA program requires applicants to have successfully completed their high school education, such as +2, A-Level, or any equivalent secondary education certificate. The education board must be recognized either by Nepal’s Higher Secondary Education Board (HSEB) or by any globally accredited institution.
+This inclusive approach allows students from all academic streams to develop foundational business acumen, entrepreneurial thinking, and managerial capabilities.
+●	MBA in Information Technology (MBA-IT)
+The MBA-IT program is tailored for individuals interested in combining management principles with technical insight. To be eligible, students must hold a Bachelor’s degree in any discipline—not limited to IT—from a university recognized either by Nepal or internationally. A minimum CGPA of 2.5, or 45% marks, or equivalent grade is required.
+Whether your background is in engineering, science, commerce, or the arts, this program helps bridge the gap between leadership and tech expertise in today’s digital economy.
+●	MBA in Data Analytics
+This specialized MBA program focuses on analytical decision-making and data-driven business strategies. Eligibility criteria include a Bachelor’s degree in any discipline from a recognized university (local or global) with at least a 2.5 CGPA, 45%, or equivalent.
+This pathway is perfect for students who may not have a technical undergraduate degree but are enthusiastic about working with data, solving real-world problems, and influencing strategic outcomes in business.
+Information Technology Courses:
+●	Master of Science in Information Technology (MSIT)
+If you’re aiming to elevate your IT career through advanced knowledge and technical leadership, the MSIT program requires applicants to have completed a Bachelor’s degree in Information Technology or a related discipline (such as computer science, electronics, software engineering, etc.). The university must be recognized in Nepal or abroad. The minimum academic requirement is a CGPA of 2.5, or 45% marks, or an equivalent academic scale.
+This ensures students entering the program already have a fundamental grasp of technology, allowing them to focus on mastering complex systems, cybersecurity, software development, and IT strategy.
+●	Bachelor of Science in Information Technology (BSIT)
+To pursue a BSIT degree, students must have completed +2, A-Level, or any equivalent high school education from a board recognized by Nepal’s HSEB or by any reputable international academic authority.
+This undergraduate program welcomes students from all academic backgrounds and prepares them with strong foundations in programming, networks, systems design, and other essential technical skills. It is ideal for those who are passionate about innovation and technology from an early stage in their education. 
+Faculty at PGS
+At Presidential Graduate School, we believe that world-class education begins with world-class educators. Our faculty members bring a wealth of academic excellence, global exposure, and real-world experience to the classroom. They are more than just teachers—they are mentors, researchers, and industry leaders who guide students to think critically, act ethically, and lead confidently. With advanced degrees from prestigious institutions across Nepal and around the globe, our faculty ensures that each student receives a transformative, career-focused learning experience.
+Meet Our Faculty:
+Aayush Bhattarai
+ ME, Manufacturing Engineering & Management
+ University of Technology Sydney, Australia
+
+Achal Raj Pandey
+ Masters in Arts, Economics
+ Jawaharlal Nehru University (JNU), India
+
+Ajanta Das Dutta
+ Masters of Business Administration
+ Institute of Business Administration & Training, India
+
+Akshar Nepal
+ Masters in Business Administration
+ Visveswaraya Technological University, India
+
+Arvind Shakya
+ Master’s in Business Administration
+ University of Mobile, USA
+
+Arya Bhattarai
+ MA in English
+ Christ (Deemed to be University), India
+
+Ashwin Kumar Satyal
+ Masters in Statistics, Tribhuvan University
+ Masters in Mathematics, University of Texas, Arlington, USA
+
+Bhanu Dabadi
+ M.Phil in English, Pokhara University
+ MBA, Tribhuvan University & EMBA, Kathmandu University
+
+Bharat Sunam
+ PGD in Business Administration
+ Informatics Academy, Singapore
+
+Bibek Bhandary
+ Masters in Business Administration
+ Symbiosis Institute of Management Studies, India
+
+Bikash Gnawali
+ MA in Anthropology
+ Tribhuvan University, Nepal
+
+Chhabi Lal Siwakoti
+ MA in Mathematics
+ Tribhuvan University, Nepal
+
+Dilar Nepal
+ MA in Economics
+ Tribhuvan University, Nepal
+
+Dilip Baral
+ Masters of Business Administration
+ Pokhara University, Nepal
+
+Hari Om Sharma
+ Masters in Management
+ Kathmandu University, Nepal
+
+Hariom Ghimire
+ Masters in Business Administration
+ Asian Institute of Technology (AIT), Thailand
+
+Himalaya Kakshapati
+ MSc in Software Engineering
+ University of Hertfordshire, UK
+
+Jayendra Rimal
+ Masters in Business Administration
+ Kathmandu University, Nepal
+
+Kosh Raj Koirala
+ MA in English & Political Science, Tribhuvan University
+ Masters in International Relations, University of Leeds, UK
+
+Madhab Prasad Regmi
+ Masters Degree in Law (LLM)
+ Tribhuvan University, Nepal
+
+Mandip Luitel
+ Masters of Business Administration
+ Symbiosis International University (SIBM), India
+
+Bharat Sunam
+ PGD in Business Administration
+ Informatics Academy, Singapore
+
+Bibek Bhandary
+ Masters in Business Administration
+ Symbiosis Institute of Management Studies, India
+
+Bikash Gnawali
+ MA in Anthropology
+ Tribhuvan University, Nepal
+
+Chhabi Lal Siwakoti
+ MA in Mathematics
+ Tribhuvan University, Nepal
+
+Dilar Nepal
+ MA in Economics
+ Tribhuvan University, Nepal
+
+Dilip Baral
+ Masters of Business Administration
+ Pokhara University, Nepal
+
+Megharaj Adhikari
+ MPhil in English
+ Tribhuvan University, Nepal
+
+Niroj Dev Pandey
+ Masters in Business Administration
+ Pokhara University, Nepal
+
+Nitesh Raj Shrestha
+ Masters in Business Administration
+ Symbiosis International University, India
+
+Padam Singh Mahata
+ Master of Business Administration
+ Pokhara University, Nepal
+
+Paras Dotel
+ Master in Business Administration
+ Assumption University, Thailand
+
+Prajol Joshi
+ MSc in Quantitative Economics
+ University of Paris Pantheon Sorbonne, France
+ MBA
+ Kathmandu University, Nepal
+
+Pramod Acharya
+ Masters in Public Administration
+ Tribhuvan University, Nepal
+
+Rabin Dhungana
+ Masters in Business Administration
+ Presidential Business School, Nepal
+
+Rabindra Silwal
+ MSc in Statistics, Tribhuvan University
+ EMBA, Pokhara University
+ MPhil in Finance, Kathmandu University
+
+Rahul Rathi
+ Masters in Business Administration
+ Pokhara University, Nepal
+
+Rajesh Gupta
+ Master of Business Administration
+ Pokhara University, Nepal
+
+Rajesh Sharma
+ PhD in Management (Accounting & Finance)
+ Ca’ Foscari University of Venice, Italy
+
+Rohit Poudel
+ Master’s in Business Administration
+ Kathmandu University, Nepal
+
+Roshan Koirala
+ Executive MBA
+ Kathmandu University, Nepal
+
+Roshan Wagle
+ Masters of Business Administration
+ Presidential Business School, Nepal
+
+Sabitri Rai
+ MSc in Environmental Science
+ Tribhuvan University, Nepal
+
+Sajeeb Kumar Shrestha
+ PhD in Brand Management
+ Tribhuvan University, Nepal
+
+Sanjay Adhikari
+ Masters in Business Administration (MBA)
+ Pokhara University, Nepal
+
+Sateesh Kumar Ojha
+ PhD in Management
+ Tribhuvan University, Nepal
+
+Saurav Raj Verma
+ Master of Business Administration
+ Jamia Hamdard University, India
+
+Shibaji Gurung
+ MPhil in Sociology
+ Tribhuvan University, Nepal
+
+Shyan Kirat Rai
+ PhD in E-Governance
+ Indian Institute of Technology (IIT), India
+
+Sijal Pokhrel
+ Masters in Environmental Science
+ Tribhuvan University, Nepal
+
+Sohan Prasad Sha
+ PhD in Innovation, Technology & Knowledge Creation
+ Jawaharlal Nehru University (JNU), India
+
+Subas Manandhar
+ MSc in Computer Science & IT
+ Tribhuvan University, Nepal
+
+Sudeep Lal Bajimaya
+ Masters in Computer and Information System
+ Pokhara University, Nepal
+
+Sujan Raja Shrestha
+ MPhil in Marketing
+ Kathmandu University, Nepal
+
+Suresh Pokharel
+ PhD in Data Science
+ University of Queensland, Australia
+ ME in Information & Communications Technologies
+ Asian Institute of Technology (AIT), Thailand
+
+Sushanta Gautam
+ Masters in Business Administration
+ Pokhara University, Nepal
+
+Ujeena Rana
+ MPhil in English
+ Tribhuvan University, Nepal
+
+Utsab Shrestha
+Masters in Business Administration
+Symbiosis International University, India
+
+
+
+ 
+Student Services
+At Presidential Graduate School, our mission extends far beyond academics. We believe in nurturing the whole individual—mind, body, and character. Our Student Services are thoughtfully curated to support every dimension of student growth, from hands-on international experiences to communication mastery, corporate exposure, and character development. Here's a comprehensive look at how we ensure our students graduate not only with a degree but with a wealth of experience and confidence.
+●	International Internship
+	As a dynamic part of the Digital Transformation (DT) session, our students are given the remarkable opportunity to intern in organizations across India. These international internships offer first-hand exposure to real-world professional environments and allow students to apply their skills on projects that matter.
+Currently, our students are engaged in advanced domains such as web development and Metaverse projects, making them early participants in future technologies. These internships are not just add-ons—they are pivotal experiences that shape our students' global perspectives, cross-cultural awareness, and readiness for the international job market.
+●	Digital Transformation Session
+	The Digital Transformation (DT) session is a 10-month learning journey created for undergraduate students. This unique module is aimed at introducing students to the evolving landscape of digital business transformation.
+Classes are held twice a month and are led by corporate leaders who have played instrumental roles in digitizing various organizations. Students gain an in-depth understanding of technologies such as Cloud Computing, Artificial Intelligence (AI), Machine Learning, and how these tools are used to revolutionize traditional business models.
+The DT session serves as both an academic and professional immersion, helping students witness first-hand how digital innovation reshapes the world around us.
+●	Guest Speaker Sessions
+	At Presidential, we deeply value experiential learning and personal stories of growth. That’s why we regularly host Guest Speaker Sessions, inviting accomplished individuals from a wide range of fields—from business and politics to arts and science.
+These sessions offer students the chance to interact directly with influential figures, ask questions, and reflect on their journeys. More than lectures, these are conversations—ones that inspire critical thinking, self-awareness, and career motivation.
+●	ECA/CCA – Extra/Co-Curricular Activities
+At Presidential, education is holistic. That’s why we actively promote Extra and Co-Curricular Activities (ECA/CCA) to enhance student life beyond the classroom. Students participate in an exciting calendar of events such as:
+●	Sports Week
+●	Presidential Gala
+●	Holi Celebrations
+●	Club-led Cultural Programs
+These events provide a vibrant platform for students to unleash talents, build relationships, and nurture emotional intelligence. Students from all walks of life come together, celebrating unity in diversity, and strengthening the soft skills essential for corporate success.
+In addition, students actively contribute to Corporate Social Responsibility (CSR) efforts through blood donation drives, environmental cleanups, walkathons, and World Environment Day programs. These activities build a strong foundation of civic responsibility and community leadership.
+●	Workshops and Training
+	Presidential believes in continuous skills enhancement. That’s why we organize regular workshops and training sessions across various domains, inviting industry experts and professionals to share their knowledge.
+These interactive sessions focus on bridging the gap between academic knowledge and real-world corporate skills. Whether it’s career readiness, technical training, or soft skill development, our workshops provide students with practical insights and tools to thrive in their chosen fields.
+●	Franklin Covey Leadership Program
+	In collaboration with Franklin Covey Education (Nepal Chapter), Presidential proudly offers a globally recognized leadership and personal development program. This training is offered to both undergraduate and graduate students and focuses on essential skills for personal and professional success.
+For Undergraduate Students:
+●	College Readiness
+●	Life Readiness
+●	Leadership
+●	Career Readiness
+For Graduate Students:
+●	7 Habits of Highly Effective People
+●	Speed of Trust
+●	Project Management
+●	Meeting Advantage
+These sessions are transformative experiences, helping students develop confidence, leadership skills, and long-term clarity about their goals.
+●	Writing Center
+	Communication is key to success, and the Presidential Writing Center is here to support students in developing strong English writing and speaking skills. The center offers one-on-one tutorials for undergraduate and graduate students to improve:
+●	Academic essay writing
+●	Speech and presentation delivery
+●	Professional documentation
+Whether you’re writing a research paper or preparing for a formal presentation, the Writing Center provides expert guidance to enhance your clarity, coherence, and confidence in communication.
+●	Toastmasters Club
+	The Presidential Toastmasters Club (AREA 2, DIVISION A, DISTRICT 41) is part of the prestigious Toastmasters International network. Founded in 2021, this club provides a world-class platform for students to build public speaking, leadership, and communication skills in a supportive environment.
+Through regular club meetings and competitions, students become more articulate, persuasive, and confident—traits that are essential in both personal and professional spheres. Toastmasters isn’t just a club; it’s a life-changing journey of self-expression and growth.
+●	The Job Placement Cell at Presidential Graduate School
+At Presidential Graduate School, we believe that education is only as powerful as the opportunities it opens for our students. That’s why we’ve established the Job Placement Cell (JPC)—a dynamic support system dedicated to connecting our graduates with meaningful career and internship opportunities in Nepal’s most respected companies and organizations. The JPC isn't just a department—it’s a career catalyst designed to bridge the gap between classroom learning and real-world application.
+The core mission of the Job Placement Cell is to create and nurture long-term partnerships with leading corporate and media houses across Nepal. These partnerships are carefully developed to ensure our students have access to valuable internships and job placements, aligned with their academic background and career ambitions. We operate on a foundational belief: knowledge gained through business and IT education must be put into action through hands-on experiences in professional environments. Without practical exposure, even the best academic learning can fall short in producing the industry leaders and tech innovators of tomorrow.
+Our Job Placement Cell is staffed with approachable and professional career advisors who are dedicated to your personal success. They don’t just facilitate placements—they also provide career counseling, resume support, interview coaching, and guidance on building a professional presence. The team is deeply committed to helping each student leverage their international degree and unique competencies to stand out in the competitive job market.
+ 
+Student Clubs at Presidential Graduate School (PGS Clubs)
+At Presidential Graduate School, student clubs are vibrant student-led initiatives that play a key role in shaping college life. These clubs are entirely managed by students and operate with a structured management system that ensures smooth functioning and meaningful impact.
+Each club is led by a team of core members, with positions that may vary depending on the club’s focus and activities. Common leadership roles include:
+•	President and Vice-President: Provide overall leadership and direction
+•	Secretary: Handles documentation and communication
+•	Treasurer: Manages finances
+•	Event Manager: Plans and coordinates events
+•	Social Media Manager: Handles digital presence and engagement
+•	Program Organizer: Designs and organizes club programs
+•	Public Relations Officer: Manages external communication and outreach
+•	Operational Manager: Oversees day-to-day operations
+Note: Not all clubs have all the listed roles. Positions are tailored based on each club’s specific needs, while the president and vice-president lead them. If one wants to be in leadership position one must be in the club for certain period of time while having certain criteria fulfilled like participation and for IT Clubs certain level of technical skill in that particular field. These criteria changes from club to club.
+Club Categories
+The school hosts a total of 9 clubs, divided into two broad sectors:
+1.	IT Clubs
+IT Clubs at our college are centered around technology, innovation, and the development of practical skills in Information Technology. The history of these clubs is that there was only one club, which was the IT club. However, it was difficult to manage because of different sector interests and a lot of members, so it was divided into four clubs, each focusing on one specific sector. All IT clubs were established in 2023 between June and September. These clubs actively organize events that can be collaborative from all IT clubs like code competition and is focused on innovation, competitions, and hands-on learning. They also contribute academically by conducting workshops and sessions that teach students valuable technical skills such as programming, electronics, and AI. By doing so, IT clubs play a vital role in enhancing students’ technical capabilities and help transform their interests into career pathways and also provides projects for different event like in this Innovista.
+There are four IT clubs:
+•	Software Club: 
+The Software Club, formerly known as the Web and Mobile Development Club, is a forward-thinking organization dedicated to advancing skills in core areas like web and mobile development, while also exploring emerging technologies such as cybersecurity, AI, ML, and IoT. The club bridges the gap between technology and business by offering hands-on learning opportunities in digital marketing, SEO, and project management. Through workshops, hackathons, and collaborative projects, it fosters a community where creativity meets practical application, helping members grow into well-rounded professionals equipped for the modern tech industry.
+•	IoT and Robotics Club: 
+The IoT and Robotics Club at our college uniquely combines hardware and software learning unlike other IT Clubs, offering hands-on experience in IoT and robotics through project-based and guided sessions led by club members and faculty. Members develop practical skills by working on innovative projects like RC planes, reception robots, GPS trackers, and pad vending machines, while also participating in workshops, guest lectures, and competitions such as Robo Soccer. Activities are primarily held in the college’s well-equipped IoT Lab, and members often serve as the tech team for various events, including the Manjushree Trail Race. The club fosters skill-building, mentorship, collaboration on team projects, and knowledge-sharing among members to enhance expertise and innovation in the field.
+•	AI/ML Club: 
+he AI/ML Club is dedicated to guiding students interested in careers as Data Analysts, Data Scientists, or ML Engineers. It creates a supportive environment through hands-on projects, workshops, and learning sessions. The club helps members build a strong foundation in topics like statistics, algebra, and calculus, while also enhancing coding skills and exploring libraries like Pandas, Scikit-learn, and TensorFlow. Primarily focused on teaching and project-based learning, the club also keeps members updated on the latest trends in AI and machine learning.
+•	Cybersecurity Club:
+The Cybersecurity Club is arguably the most successful IT club at our college focused on building practical cybersecurity skills through hands-on activities, workshops with certifications, and expert guest lectures. It fosters a collaborative space for tech enthusiasts to network, participate in challenges like Red Team vs Blue Team, and lead initiatives such as cyber awareness campaigns and networking events. Backed by strong academic partnerships with renowned organizations like EC-Council, ISC2, Hackerearth, CryptoGen Nepal, CompTIA, and Check Point, the club offers students valuable industry exposure and a platform to grow as future cybersecurity professionals.
+2.	Business and Interest-Based Clubs
+These clubs aim to nurture personal growth, creativity, and entrepreneurial spirit among students. While IT clubs focus on technical skills, business and interest-based clubs emphasize soft skills, leadership, and community engagement. They are actively involved in organizing a variety of events, workshops, and festivals that contribute to the overall cultural and extracurricular vibrancy of the college.
+There are five clubs in this category:
+•	Entrepreneurship Club:
+The Entrepreneurship Club empowers students to explore their business ideas by providing a platform to pitch, prototype, and grow through hands-on learning, mentorship, and collaboration. It connects members with industry experts and fosters innovation through events like Pitching Sessions, Business Workshops (Ideation, Sparks), E-Talks, Panel Discussions, and Bootcamps. The club’s most popular event, the Presidential Bazaar, lets students set up stalls to sell products or gather feedback. Other major events include the Startup Summit and Entrepreneurship Mela, promoting student startups and entrepreneurial thinking.
+•	Academic Club: 
+The Academic Club promotes intellectual growth, academic excellence, and a passion for learning through study groups, competitions, guest lectures, and research activities. It provides a space for students to explore their interests, connect with like-minded peers, and grow together. Key events include Art Competitions, Open Mic sessions featuring poetry, music, or stand-up and “Yo Book Kasto Chha?”, a book discussion event where members dive into the themes and ideas of a selected book.
+•	Music Club:
+The Music Club is the newest addition to our college’s student clubs, created by music-loving students to bring together others who share the same passion. The club focuses on organizing musical events such as Acoustic Eve, student concerts, music festivals, and fortnightly jam sessions. Among these event Acoustic Eve can be considered as the most successful and popular one. Members can sing, play instruments, explore music production, and perform at various college events, creating a vibrant space for musical expression and collaboration.
+•	Sports Club:
+ The Sports Club promotes physical fitness, teamwork, and a healthy lifestyle by organizing monthly sports events, training sessions, friendly matches, tournaments, and wellness workshops. Students can participate by signing up for their favorite sports, trying new activities, and building teamwork and leadership skills. The club also hosts Esports Competitions and plays a key role in organizing one of the college’s major annual events “Sports Week” which features a wide range of competitions including races, long jump, high jump, chess, volleyball, football, cricket, basketball, badminton, track and field, and table tennis.
+•	Social Club:
+ The Social Club aims to foster a strong sense of community through social events, volunteer work, and cultural activities. Members actively participate in charity events, community service projects, and volunteering during college programs. One of its most notable initiatives is the Blood Donation and Free Checkup Camp, a one or two-day event that includes blood donation drives alongside free health checkups such as eye, dental, or skin.
+Toastmasters Club
+	The Toastmasters Club stands apart from the nine PGS clubs as it operates under the global organization Toastmasters International, with its own unique management structure and jurisdiction, though it still aligns with certain college rules. While it is a student-led initiative, it collaborates with Toastmasters clubs from other colleges and follows international standards. The club provides a supportive platform for individuals to overcome the fear of public speaking, improve communication skills, and build self-confidence. Members participate in weekly meetings with engaging themes, take part in speech competitions, and benefit from inter-college collaborations that promote personal and professional growth.
+The Presidential Toastmasters Club (AREA 2, DIVISION A, DISTRICT 41) is part of the prestigious Toastmasters International network. Founded in 2021, this club is the first club of our college and provides a world-class platform for students to build public speaking, leadership, and communication skills in a supportive environment.
+Through regular club meetings and competitions, students become more articulate, persuasive, and confident—traits that are essential in both personal and professional spheres. Toastmasters isn’t just a club; it’s a life-changing journey of self-expression and growth.
+
+

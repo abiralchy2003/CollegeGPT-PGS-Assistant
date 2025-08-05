@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+sentence-transformers
+scikit-learn
+numpy
+pyaudio
